@@ -1,0 +1,2 @@
+Java is useful. Java is object oriented.
+Streams process data.
